@@ -1,4 +1,4 @@
-☀️ Weather App
+☀️ Weather App:
 A simple and responsive Weather App built using HTML, CSS, and JavaScript. It allows users to get current weather information by entering a city name or using their current location.
 
 🚀 Features
