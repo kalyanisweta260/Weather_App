@@ -2,6 +2,7 @@
 A simple and responsive Weather App built using HTML, CSS, and JavaScript. It allows users to get current weather information by entering a city name or using their current location.
 
 🚀 Features
+
 🌍 Fetch weather data by city name
 📍 Use geolocation to get weather for the current location
 📊 Displays temperature, weather description, humidity, and wind speed
